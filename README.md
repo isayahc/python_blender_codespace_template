@@ -36,6 +36,12 @@ blender --help
 blender -b -P examples/render_cube.py 
 ```
 
+### Output
+
+![Local Image](assests/image.png)
+
+<!-- ![Hosted Image](https://github.com/isayahc/python_blender_codespace_template/blob/main/assests/image.png) -->
+
 ## Features
 
 - Feature 1
