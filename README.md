@@ -6,7 +6,35 @@
 
 ## Description
 
-Brief description of your project.
+Running script with blender
+
+## Getting started
+
+1. before getting started please run 
+
+```
+chmod +x setup.sh
+```
+
+This will give setup.sh executable privledges
+
+2. Now run
+
+```
+./setup.sh
+```
+
+3. Determine if belnder has succesfully installed, try running
+
+```
+blender --help
+```
+
+## Examples
+
+```
+blender -b -P examples/render_cube.py 
+```
 
 ## Features
 
